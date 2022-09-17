@@ -25,6 +25,7 @@ public class ReverseAString {
         String S2 = "forGeeks";
 
         String ans = reverseString(S1).concat(reverseString(S2));
+        System.out.println(reverseString(S1));
         System.out.println(ans);
 
     }
