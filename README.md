@@ -5,7 +5,7 @@
 **47 solutions, from School level up to Medium**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+[![GeeksforGeeks profile](https://img.shields.io/badge/GeeksforGeeks-monira4624-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/monira4624)
 ![Solutions](https://img.shields.io/badge/solutions-47-2ea44f?style=for-the-badge)
 
 </div>
@@ -17,6 +17,8 @@
 My solutions to GeeksforGeeks practice problems, organized by GfG's own difficulty levels
 (**School → Basic → Easy → Medium**). The progression shows how I moved from number and pattern exercises to
 classic array problems such as **Kadane's Algorithm**, **Trapping Rain Water** and **Majority Element**.
+
+🔗 **My profile:** [geeksforgeeks.org/profile/monira4624](https://www.geeksforgeeks.org/profile/monira4624)
 
 ## 📊 At a glance
 
